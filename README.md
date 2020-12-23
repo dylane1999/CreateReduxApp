@@ -1,1 +1,1 @@
-create react app with styled components and a global style on App
+creates a React + Redux boilerplate using redux toolkit
